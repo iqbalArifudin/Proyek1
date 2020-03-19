@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="gambarmakanan5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="namamakanan5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="hargamakanan5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jButton5" alignment="0" min="-2" pref="105" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="gambarmakanan6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="namamakanan6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="hargamakanan6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jButton6" alignment="0" min="-2" pref="105" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="namamakanan7" alignment="0" max="32767" attributes="0"/>
+                          <Component id="hargamakanan7" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jButton7" alignment="0" pref="105" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan7" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="namamakanan8" alignment="0" max="32767" attributes="0"/>
+                          <Component id="hargamakanan8" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jButton8" alignment="0" pref="105" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan8" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="xMakanan" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan1" max="32767" attributes="0"/>
+                          <Component id="namamakanan1" max="32767" attributes="0"/>
+                          <Component id="hargamakanan1" pref="105" max="32767" attributes="0"/>
+                          <Component id="jButton1" max="32767" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jTextField_jml" min="-2" pref="53" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="xMinuman" max="32767" attributes="0"/>
+                                  <Component id="gambarmakanan2" max="32767" attributes="0"/>
+                                  <Component id="namamakanan2" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="hargamakanan2" alignment="0" pref="105" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jButton2" min="-2" pref="105" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="gambarmakanan3" max="32767" attributes="0"/>
+                                  <Component id="xTambahan" max="32767" attributes="0"/>
+                                  <Component id="namamakanan3" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="hargamakanan3" alignment="0" pref="105" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jButton3" min="-2" pref="105" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="xPesanan" max="32767" attributes="0"/>
+                                  <Component id="gambarmakanan4" max="32767" attributes="0"/>
+                                  <Component id="namamakanan4" alignment="0" pref="105" max="32767" attributes="0"/>
+                                  <Component id="hargamakanan4" alignment="0" pref="105" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jButton4" min="-2" pref="105" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="119" max="32767" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jPanel1" max="32767" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="xMakanan" min="-2" pref="44" max="-2" attributes="0"/>
+                          <Component id="xMinuman" min="-2" pref="44" max="-2" attributes="0"/>
+                          <Component id="xTambahan" min="-2" pref="44" max="-2" attributes="0"/>
+                          <Component id="xPesanan" min="-2" pref="44" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="gambarmakanan1" pref="93" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan2" alignment="1" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan3" alignment="1" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan4" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="namamakanan1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="namamakanan2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="namamakanan3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="namamakanan4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="hargamakanan1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="hargamakanan2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="hargamakanan3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="hargamakanan4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jTextField_jml" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                              <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jButton4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="gambarmakanan8" pref="84" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan7" alignment="0" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="gambarmakanan5" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="namamakanan5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="namamakanan6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="namamakanan7" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="namamakanan8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="hargamakanan5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="hargamakanan6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="hargamakanan8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="hargamakanan7" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jButton5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton7" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="xPesanan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pesanan"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="xPesananActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="xTambahan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tambahan"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="xTambahanActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="xMinuman">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Minuman"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="xMinumanActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="xMakanan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Makanan"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="xMakananActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="66" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jScrollPane2" pref="516" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          <Component id="jLabel_pesanan" min="-2" pref="127" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="204" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="153" max="-2" attributes="0"/>
+                  <Component id="btn_selesai" min="-2" pref="225" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLabel_pesanan" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="411" max="-2" attributes="0"/>
+                  <EmptySpace pref="40" max="32767" attributes="0"/>
+                  <Component id="btn_selesai" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel_pesanan">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tempus Sans ITC" size="24" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="PESANAN"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tbl_psn">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="66" red="66" type="rgb"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="4" rowCount="24">
+                    <Column editable="true" title="Menu" type="java.lang.Object"/>
+                    <Column editable="true" title="Harga" type="java.lang.Object"/>
+                    <Column editable="true" title="Jumlah" type="java.lang.Object"/>
+                    <Column editable="true" title="Total" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="gridColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="btn_selesai">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Selesai"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="gambarmakanan3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="gambarmakanan1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="gambarmakanan2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="gambarmakanan4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="namamakanan1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     nama makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="namamakanan2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     nama makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="namamakanan3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     nama makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="namamakanan4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     nama makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hargamakanan1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     harga makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hargamakanan2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     harga makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hargamakanan3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     harga makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hargamakanan4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     harga makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tambah"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tambah"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tambah"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tambah"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="gambarmakanan7">
+    </Component>
+    <Component class="javax.swing.JLabel" name="gambarmakanan5">
+    </Component>
+    <Component class="javax.swing.JLabel" name="gambarmakanan6">
+    </Component>
+    <Component class="javax.swing.JLabel" name="gambarmakanan8">
+    </Component>
+    <Component class="javax.swing.JLabel" name="namamakanan5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     nama makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="namamakanan6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     nama makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="namamakanan7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     nama makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="namamakanan8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     nama makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hargamakanan5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     harga makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hargamakanan6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     harga makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hargamakanan7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     harga makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hargamakanan8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="     harga makanan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tambah"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tambah"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton6ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tambah"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tambah"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_jml">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="cc" type="rgb"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jumlah"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
